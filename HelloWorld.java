@@ -1,4 +1,6 @@
-public static void main(String[] args) {
-	System.out.println("7190764116");
+class HelloWorld{
+	public static void main(String args[]) throws Exception{
+		System.out.println("7190764116");
 
-}	
+	}
+}
